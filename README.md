@@ -95,8 +95,6 @@ The main objectives of this case study were to:
 
 ## 🚀 Next Steps
 
-* Automate daily sales reporting using data pipelines
-* Expand analysis to include multiple store locations
 * Implement customer loyalty programs based on purchasing patterns
 * Integrate real-time dashboards for continuous monitoring
 
